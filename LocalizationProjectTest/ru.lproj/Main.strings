@@ -1,0 +1,9 @@
+
+/* Class = "UITextField"; placeholder = "this is a text!"; ObjectID = "13w-Gd-CUb"; */
+"13w-Gd-CUb.placeholder" = "не поверишь это текст)!";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Z7Q-Wg-yAJ"; */
+"Z7Q-Wg-yAJ.normalTitle" = "Кнопка";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "w3z-Y3-d1U"; */
+"w3z-Y3-d1U.text" = "Лейбла";
